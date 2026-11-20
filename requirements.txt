@@ -2,4 +2,5 @@ streamlit
 pandas
 requests
 pypdf
-google-genai
+openpyxl
+akshare
