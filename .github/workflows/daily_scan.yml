@@ -1,0 +1,7 @@
+- name: 將最新掃描結果存回 GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add scan_results.json ggt_list.json
+          git commit -m "Auto update HKEX GGT red flag scan" || exit 0
+          git push
