@@ -1,140 +1,200 @@
 {
-  "updated_at": "2026-11-20 04:19:11 (UTC)",
+  "updated_at": "2026-11-20 20:59:47 (UTC)",
   "ggt_count": 668,
   "scanned_market_anns": 800,
   "data": [
     {
-      "code": "00941",
-      "name": "中國移動 / 中國移動－Ｒ",
-      "date": "20/11/2026 06:30",
-      "title": "調整持續關連交易之年度上限及擬進行的持續關連交易",
+      "code": "06936",
+      "name": "順豐控股",
+      "date": "20/11/2026 19:22",
+      "title": "獨立非執行董事辭任及建議委任獨立非執行董事",
+      "risk_level": "高風險",
+      "red_flags": [
+        "標題命中：辭任"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001396_c.pdf"
+    },
+    {
+      "code": "03277",
+      "name": "長光辰芯",
+      "date": "20/11/2026 22:41",
+      "title": "持續關連交易(1) 修訂2026年長春光機所框架協議項下交易的銷售年度上限；(2) 訂立續訂的長春光機所框架協議；(3) 建議變更董事；及(4) 2026年第二次臨時股東會通告",
       "risk_level": "中風險",
       "red_flags": [
         "標題命中：關連交易"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000010_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001794_c.pdf"
     },
     {
-      "code": "02465",
-      "name": "龍蟠科技",
-      "date": "19/11/2026 21:12",
-      "title": "公告\n持續關連交易 &mdash; 新寧德時代銷售框架協議",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：關連交易"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111901288_c.pdf"
-    },
-    {
-      "code": "02249",
-      "name": "晶合集成",
-      "date": "19/11/2026 19:02",
-      "title": "須予披露及關連交易進展公告\n訂立增資協議",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：關連交易"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111901060_c.pdf"
-    },
-    {
-      "code": "09658",
-      "name": "特海國際",
-      "date": "19/11/2026 19:00",
-      "title": "(1) 建議重續現有不獲豁免持續關連交易；及 (2) 股東特別大會通告",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：關連交易"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111901048_c.pdf"
-    },
-    {
-      "code": "00297",
-      "name": "中化化肥",
-      "date": "19/11/2026 18:18",
-      "title": "公告 - 電氣、儀表本質安全整改項目EPC總承包工程合同下之關連交易",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：關連交易"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900900_c.pdf"
-    },
-    {
-      "code": "02617",
-      "name": "藥捷安康－Ｂ",
-      "date": "19/11/2026 18:16",
-      "title": "內幕消息公告 完成H股全流通",
+      "code": "01066",
+      "name": "威高股份",
+      "date": "20/11/2026 22:33",
+      "title": "內幕消息聯交所就本公司H股全流通授出上市批准",
       "risk_level": "中風險",
       "red_flags": [
         "標題命中：內幕消息"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900882_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001786_c.pdf"
     },
     {
-      "code": "01882",
-      "name": "海天國際",
-      "date": "19/11/2026 18:00",
-      "title": "持續關連交易\n(1)修訂二零二四年智聯框架協議項下\n持續關連交易\n截至二零二六年十二月三十一日止年度之年度上限；\n及\n(2)重續持續關連交易－\n二零二七年智聯框架協議",
+      "code": "06666",
+      "name": "恒大物業",
+      "date": "20/11/2026 22:24",
+      "title": "聯合公告 - 延遲寄發高盛代表要約人提出有關本公司全部已發行股份（要約人及要約人一致行動人士已擁有或同意將予收購的股份除外）的潛在無條件強制性現金要約的綜合文件",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：延遲"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001770_c.pdf"
+    },
+    {
+      "code": "01071",
+      "name": "華電國際電力股份",
+      "date": "20/11/2026 20:45",
+      "title": "二零二六年中期現金分紅預案\n及\n續訂持續關連交易",
       "risk_level": "中風險",
       "red_flags": [
         "標題命中：關連交易"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900796_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001590_c.pdf"
     },
     {
-      "code": "03808",
-      "name": "中國重汽",
-      "date": "19/11/2026 17:46",
-      "title": "更新濰柴持續關連交易之延遲寄發通函",
+      "code": "02586",
+      "name": "多點數智",
+      "date": "20/11/2026 19:45",
+      "title": "(1)重續持續關連交易－2027年銀川新華框架協議；及(2)修訂組織章程大綱及細則",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：關連交易"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001484_c.pdf"
+    },
+    {
+      "code": "00800",
+      "name": "文遠知行－Ｗ",
+      "date": "20/11/2026 19:39",
+      "title": "內幕消息 截至2026年9月30日止第三季度的未經審計財務業績",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：內幕消息"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001476_c.pdf"
+    },
+    {
+      "code": "03774",
+      "name": "亮晴控股",
+      "date": "20/11/2026 19:25",
+      "title": "聯合公告 延遲寄發有關八方金融有限公司及結好證券有限公司為及代表昇展國際有限公司提出收購亮晴控股有限公司全部已發行股份 （不包括要約人、文先生及與彼等任何一方一致行動人士已經擁有的股份）的無條件強制性現金要約的綜合文件",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：延遲"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001409_c.pdf"
+    },
+    {
+      "code": "03320",
+      "name": "華潤醫藥",
+      "date": "20/11/2026 19:19",
+      "title": "內幕消息\n華潤醫藥商業潛在發行股份的最新資料",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：內幕消息"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001380_c.pdf"
+    },
+    {
+      "code": "09863",
+      "name": "零跑汽車",
+      "date": "20/11/2026 18:49",
+      "title": "持續關連交易\n(1) 新產品購銷框架協議\n(2) 新配套產品採購框架協議\n(3) 2027年零部件採購框架協議\n(4) 2027年汽車銷售及服務框架協議及\n(5) 泰國市場採購框架協議",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：關連交易"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001208_c.pdf"
+    },
+    {
+      "code": "01440",
+      "name": "應星控股",
+      "date": "20/11/2026 18:40",
+      "title": "進一步延遲寄發通函 - 須予披露及關連交易出售銷售股份及轉讓目標公司之銷售貸款",
       "risk_level": "中風險",
       "red_flags": [
         "標題命中：延遲",
         "標題命中：關連交易"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900724_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001184_c.pdf"
     },
     {
-      "code": "09899",
-      "name": "網易雲音樂",
-      "date": "19/11/2026 17:24",
-      "title": "內幕消息 本公司控股股東網易股份有限公司公佈截至2026年9月30日止第三季度未經審計財務業績",
+      "code": "01951",
+      "name": "錦欣生殖",
+      "date": "20/11/2026 18:25",
+      "title": "進一步延遲寄發通函",
       "risk_level": "中風險",
       "red_flags": [
-        "標題命中：內幕消息"
+        "標題命中：延遲"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900595_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001088_c.pdf"
     },
     {
-      "code": "02591",
-      "name": "銀諾醫藥－Ｂ",
-      "date": "19/11/2026 17:06",
-      "title": "內幕消息 - 與ARCERA LIFE SCIENCES LTD訂立許可協議",
+      "code": "09863",
+      "name": "零跑汽車",
+      "date": "20/11/2026 18:05",
+      "title": "關連交易 Opel全新C級SUV合作協議",
       "risk_level": "中風險",
       "red_flags": [
-        "標題命中：內幕消息"
+        "標題命中：關連交易"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900513_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000957_c.pdf"
     },
     {
-      "code": "00267",
-      "name": "中信股份",
-      "date": "19/11/2026 16:31",
-      "title": "內幕消息 - 更新《股東回報規劃》",
+      "code": "01304",
+      "name": "FORTIOR",
+      "date": "20/11/2026 16:49",
+      "title": "進一步延遲寄發通函",
       "risk_level": "中風險",
       "red_flags": [
-        "標題命中：內幕消息"
+        "標題命中：延遲"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900287_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000403_c.pdf"
+    },
+    {
+      "code": "01579",
+      "name": "頤海國際",
+      "date": "20/11/2026 16:30",
+      "title": "(1)就2027年至2029年重續持續關連交易年度上限及 (2)股東特別大會通告",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：關連交易"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000279_c.pdf"
+    },
+    {
+      "code": "06862",
+      "name": "海底撈",
+      "date": "20/11/2026 16:30",
+      "title": "(1)建議重續現有不獲豁免持續關連交易及(2)股東特別大會通告",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：關連交易"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000275_c.pdf"
     }
   ]
 }
