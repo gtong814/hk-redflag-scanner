@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-24 00:42:14 (UTC)",
+  "updated_at": "2026-11-24 10:13:03 (UTC)",
   "ggt_count": 668,
-  "scanned_market_anns": 761,
+  "scanned_market_anns": 800,
   "data": [
+    {
+      "code": "01929",
+      "name": "周大福 / CTFJ B3006",
+      "date": "24/11/2026 17:06",
+      "title": "調整於2030 年到期的8,800,000,000 港元0.375% 可換股債券的換股價",
+      "risk_level": "高風險",
+      "red_flags": [
+        "標題命中：可換股"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112400419_c.pdf"
+    },
     {
       "code": "02718",
       "name": "明略科技－Ｗ",
@@ -76,6 +88,30 @@
       "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301207_c.pdf"
     },
     {
+      "code": "09626",
+      "name": "嗶哩嗶哩－Ｗ",
+      "date": "24/11/2026 18:00",
+      "title": "內幕消息\n2026 年第三季度未經審計的財務業績公告",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：內幕消息"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112400716_c.pdf"
+    },
+    {
+      "code": "00363",
+      "name": "上海實業控股",
+      "date": "24/11/2026 16:46",
+      "title": "補充公告 - 有關採購框架協議之持續關連交易",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：關連交易"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112400337_c.pdf"
+    },
+    {
       "code": "02696",
       "name": "復宏漢霖",
       "date": "23/11/2026 21:53",
@@ -98,42 +134,6 @@
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
       "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301540_c.pdf"
-    },
-    {
-      "code": "00991",
-      "name": "大唐發電",
-      "date": "23/11/2026 17:12",
-      "title": "進一步公告 關連交易 托電公司吸收合併托二公司",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：關連交易"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112300697_c.pdf"
-    },
-    {
-      "code": "00839",
-      "name": "中教控股",
-      "date": "23/11/2026 17:00",
-      "title": "有關內幕消息 &mdash; 2026財年財務表現更新之補充公告",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：內幕消息"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112300615_c.pdf"
-    },
-    {
-      "code": "09678",
-      "name": "雲知聲",
-      "date": "23/11/2026 08:00",
-      "title": "內幕消息\n2026年第三季度最新經營情況",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：內幕消息"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112300112_c.pdf"
     }
   ]
 }
