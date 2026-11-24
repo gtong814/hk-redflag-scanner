@@ -1,8 +1,128 @@
 {
-  "updated_at": "2026-11-23 08:00:53 (UTC)",
+  "updated_at": "2026-11-24 00:42:14 (UTC)",
   "ggt_count": 668,
-  "scanned_market_anns": 133,
+  "scanned_market_anns": 761,
   "data": [
+    {
+      "code": "02718",
+      "name": "明略科技－Ｗ",
+      "date": "23/11/2026 21:32",
+      "title": "獨立非執行董事辭任及委任\n及\n董事委員會組成變動",
+      "risk_level": "高風險",
+      "red_flags": [
+        "標題命中：辭任"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301560_c.pdf"
+    },
+    {
+      "code": "00019",
+      "name": "太古股份公司Ａ / 太古股份公司Ｂ",
+      "date": "23/11/2026 21:27",
+      "title": "主要交易 - 配售公司所持若干國泰航空股份",
+      "risk_level": "高風險",
+      "red_flags": [
+        "標題命中：配售"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301558_c.pdf"
+    },
+    {
+      "code": "00853",
+      "name": "微創醫療 / MICROPORT B2812",
+      "date": "23/11/2026 20:16",
+      "title": "(1)復牌指引；及\n(2)繼續暫停買賣",
+      "risk_level": "高風險",
+      "red_flags": [
+        "標題命中：暫停買賣"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301473_c.pdf"
+    },
+    {
+      "code": "00857",
+      "name": "中國石油股份",
+      "date": "23/11/2026 19:14",
+      "title": "中國石油天然氣股份有限公司關於公司董事辭任的公告",
+      "risk_level": "高風險",
+      "red_flags": [
+        "標題命中：辭任"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301364_c.pdf"
+    },
+    {
+      "code": "00857",
+      "name": "中國石油股份",
+      "date": "23/11/2026 19:07",
+      "title": "非執行董事辭任",
+      "risk_level": "高風險",
+      "red_flags": [
+        "標題命中：辭任"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301341_c.pdf"
+    },
+    {
+      "code": "03678",
+      "name": "弘業期貨",
+      "date": "23/11/2026 18:41",
+      "title": "執行董事兼總經理辭任",
+      "risk_level": "高風險",
+      "red_flags": [
+        "標題命中：辭任"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301207_c.pdf"
+    },
+    {
+      "code": "02696",
+      "name": "復宏漢霖",
+      "date": "23/11/2026 21:53",
+      "title": "持續關連交易 - (1)生產技術服務協議及(2)修訂商旅管理服務協議的年度上限",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：關連交易"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301590_c.pdf"
+    },
+    {
+      "code": "01818",
+      "name": "招金礦業",
+      "date": "23/11/2026 21:04",
+      "title": "公告主要交易及持續關連交易重續金融服務協議",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：關連交易"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301540_c.pdf"
+    },
+    {
+      "code": "00991",
+      "name": "大唐發電",
+      "date": "23/11/2026 17:12",
+      "title": "進一步公告 關連交易 托電公司吸收合併托二公司",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：關連交易"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112300697_c.pdf"
+    },
+    {
+      "code": "00839",
+      "name": "中教控股",
+      "date": "23/11/2026 17:00",
+      "title": "有關內幕消息 &mdash; 2026財年財務表現更新之補充公告",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：內幕消息"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112300615_c.pdf"
+    },
     {
       "code": "09678",
       "name": "雲知聲",
