@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 22:58:25 (UTC)",
+  "updated_at": "2026-11-25 08:57:23 (UTC)",
   "ggt_count": 668,
   "scanned_market_anns": 800,
   "data": [
@@ -16,28 +16,16 @@
       "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112400419_c.pdf"
     },
     {
-      "code": "02718",
-      "name": "明略科技－Ｗ",
-      "date": "23/11/2026 21:32",
-      "title": "獨立非執行董事辭任及委任\n及\n董事委員會組成變動",
-      "risk_level": "高風險",
+      "code": "02015",
+      "name": "理想汽車－Ｗ",
+      "date": "25/11/2026 16:30",
+      "title": "內幕消息 截至2026年9月30日止季度的未經審計財務業績",
+      "risk_level": "中風險",
       "red_flags": [
-        "標題命中：辭任"
+        "標題命中：內幕消息"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301560_c.pdf"
-    },
-    {
-      "code": "00019",
-      "name": "太古股份公司Ａ / 太古股份公司Ｂ",
-      "date": "23/11/2026 21:27",
-      "title": "主要交易 - 配售公司所持若干國泰航空股份",
-      "risk_level": "高風險",
-      "red_flags": [
-        "標題命中：配售"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301558_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112500273_c.pdf"
     },
     {
       "code": "09696",
@@ -159,30 +147,6 @@
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
       "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112400337_c.pdf"
-    },
-    {
-      "code": "02696",
-      "name": "復宏漢霖",
-      "date": "23/11/2026 21:53",
-      "title": "持續關連交易 - (1)生產技術服務協議及(2)修訂商旅管理服務協議的年度上限",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：關連交易"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301590_c.pdf"
-    },
-    {
-      "code": "01818",
-      "name": "招金礦業",
-      "date": "23/11/2026 21:04",
-      "title": "公告主要交易及持續關連交易重續金融服務協議",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：關連交易"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301540_c.pdf"
     }
   ]
 }
