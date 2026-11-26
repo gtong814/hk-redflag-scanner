@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-25 22:20:09 (UTC)",
+  "updated_at": "2026-11-26 08:43:18 (UTC)",
   "ggt_count": 668,
   "scanned_market_anns": 800,
   "data": [
+    {
+      "code": "02565",
+      "name": "派格生物醫藥－Ｂ",
+      "date": "26/11/2026 16:30",
+      "title": "(1)於2026年11月26日（星期四）舉行的2026年第一次臨時股東大會投票結果；及(2)更換核數師",
+      "risk_level": "高風險",
+      "red_flags": [
+        "標題命中：核數師"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112600292_c.pdf"
+    },
     {
       "code": "01109",
       "name": "華潤置地 / CR LAND N2902 / CR LAND N2910 / CR LAND N2811 / CR LAND N3011-R",
@@ -62,6 +74,18 @@
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
       "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112500477_c.pdf"
+    },
+    {
+      "code": "03277",
+      "name": "長光辰芯",
+      "date": "26/11/2026 06:02",
+      "title": "內幕消息\n2026年首十個月的最新經營情況",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：內幕消息"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112600002_c.pdf"
     },
     {
       "code": "00666",
@@ -146,18 +170,6 @@
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
       "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112500273_c.pdf"
-    },
-    {
-      "code": "09696",
-      "name": "天齊鋰業",
-      "date": "24/11/2026 22:14",
-      "title": "關連交易及須予披露的交易 - 收購事項",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：關連交易"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112401522_c.pdf"
     }
   ]
 }
