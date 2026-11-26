@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-11-26 08:43:18 (UTC)",
+  "updated_at": "2026-11-26 22:13:53 (UTC)",
   "ggt_count": 668,
   "scanned_market_anns": 800,
   "data": [
+    {
+      "code": "01088",
+      "name": "中國神華",
+      "date": "26/11/2026 21:57",
+      "title": "選舉董事長及變更法定代表人及總經理辭任",
+      "risk_level": "高風險",
+      "red_flags": [
+        "標題命中：辭任"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112601545_c.pdf"
+    },
+    {
+      "code": "06666",
+      "name": "恒大物業",
+      "date": "26/11/2026 17:12",
+      "title": "聯交所對中國恒大集團（清盤中）（已除牌，前股份代號：3333）、恒大物業集團有限公司（股份代號：6666）及七名董事的紀律行動",
+      "risk_level": "高風險",
+      "red_flags": [
+        "標題命中：清盤"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112600575_c.pdf"
+    },
     {
       "code": "02565",
       "name": "派格生物醫藥－Ｂ",
@@ -40,40 +64,88 @@
       "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501688_c.pdf"
     },
     {
-      "code": "02473",
-      "name": "喜相逢集團",
-      "date": "25/11/2026 22:18",
-      "title": "建議變更核數師及股東特別大會通告",
-      "risk_level": "高風險",
+      "code": "01258",
+      "name": "中國有色礦業",
+      "date": "26/11/2026 22:04",
+      "title": "(1)續訂持續關連交易；及\n(2)有關(A)財資管理服務框架協議下資金集中服務；及\n(B)金融服務框架協議下存款服務的須予披露的交易",
+      "risk_level": "中風險",
       "red_flags": [
-        "標題命中：核數師"
+        "標題命中：關連交易"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501624_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112601559_c.pdf"
     },
     {
-      "code": "09976",
-      "name": "江波龍",
-      "date": "25/11/2026 20:27",
-      "title": "海外監管公告-關於公司副總經理辭任、財務負責人辭任暨聘任財務負責人的公告",
-      "risk_level": "高風險",
+      "code": "02880",
+      "name": "遼港股份",
+      "date": "26/11/2026 21:12",
+      "title": "持續關連交易及須予披露交易",
+      "risk_level": "中風險",
       "red_flags": [
-        "標題命中：辭任"
+        "標題命中：關連交易"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501381_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112601465_c.pdf"
     },
     {
-      "code": "00512",
-      "name": "遠大醫藥",
-      "date": "25/11/2026 17:00",
-      "title": "於二零二六年十一月二十五日舉行之股東特別大會之投票表決結果及更換核數師",
-      "risk_level": "高風險",
+      "code": "02610",
+      "name": "南山鋁業國際",
+      "date": "26/11/2026 21:01",
+      "title": "內幕消息 - 主要股東PRESS METAL截至2026年9月30日止九個月之未經審核報告",
+      "risk_level": "中風險",
       "red_flags": [
-        "標題命中：核數師"
+        "標題命中：內幕消息"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112500477_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112601439_c.pdf"
+    },
+    {
+      "code": "02039",
+      "name": "中集集團",
+      "date": "26/11/2026 19:44",
+      "title": "內幕消息 - 關於履行擔保責任的進展公告",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：內幕消息"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112601323_c.pdf"
+    },
+    {
+      "code": "00604",
+      "name": "深圳控股",
+      "date": "26/11/2026 19:42",
+      "title": "關連交易\n有關收購置地投資100%股權",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：關連交易"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112601319_c.pdf"
+    },
+    {
+      "code": "02517",
+      "name": "鍋圈",
+      "date": "26/11/2026 19:40",
+      "title": "持續關連交易 重續服務採購框架協議",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：關連交易"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112601317_c.pdf"
+    },
+    {
+      "code": "01083",
+      "name": "港華智慧能源",
+      "date": "26/11/2026 17:16",
+      "title": "重續持續關連交易",
+      "risk_level": "中風險",
+      "red_flags": [
+        "標題命中：關連交易"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112600606_c.pdf"
     },
     {
       "code": "03277",
@@ -110,66 +182,6 @@
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
       "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501672_c.pdf"
-    },
-    {
-      "code": "01108",
-      "name": "凱盛新能",
-      "date": "25/11/2026 20:53",
-      "title": "關連交易 - 中國建材國際工程越南達芳超白壓花玻璃廠項目包投產服務合同及阿爾及利亞SOLARIS項目培訓服務合同",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：關連交易"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501440_c.pdf"
-    },
-    {
-      "code": "09658",
-      "name": "特海國際",
-      "date": "25/11/2026 19:00",
-      "title": "內幕消息 - 2026年第三季度未經審核財務業績公告",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：內幕消息"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501086_c.pdf"
-    },
-    {
-      "code": "00604",
-      "name": "深圳控股",
-      "date": "25/11/2026 18:52",
-      "title": "關連交易\n投資合夥基金",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：關連交易"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501032_c.pdf"
-    },
-    {
-      "code": "01349",
-      "name": "復旦張江",
-      "date": "25/11/2026 17:55",
-      "title": "持續關連交易 - 與上海醫藥訂立銷售及分銷協議",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：關連交易"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112500717_c.pdf"
-    },
-    {
-      "code": "02015",
-      "name": "理想汽車－Ｗ",
-      "date": "25/11/2026 16:30",
-      "title": "內幕消息 截至2026年9月30日止季度的未經審計財務業績",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：內幕消息"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112500273_c.pdf"
     }
   ]
 }
