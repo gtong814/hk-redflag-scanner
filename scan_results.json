@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-26 22:13:53 (UTC)",
+  "updated_at": "2026-11-27 08:54:47 (UTC)",
   "ggt_count": 668,
   "scanned_market_anns": 800,
   "data": [
+    {
+      "code": "01088",
+      "name": "中國神華",
+      "date": "27/11/2026 06:04",
+      "title": "根據一般授權配售新H股",
+      "risk_level": "高風險",
+      "red_flags": [
+        "標題命中：配售"
+      ],
+      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1127/2026112700004_c.pdf"
+    },
     {
       "code": "01088",
       "name": "中國神華",
@@ -28,40 +40,28 @@
       "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112600575_c.pdf"
     },
     {
-      "code": "02565",
-      "name": "派格生物醫藥－Ｂ",
-      "date": "26/11/2026 16:30",
-      "title": "(1)於2026年11月26日（星期四）舉行的2026年第一次臨時股東大會投票結果；及(2)更換核數師",
-      "risk_level": "高風險",
+      "code": "02282",
+      "name": "美高梅中國 / MGM CHINA N3106 / MGM CHINA N3305 / MGM CHINA N2702",
+      "date": "27/11/2026 16:47",
+      "title": "持續關連交易重續諮詢服務協議",
+      "risk_level": "中風險",
       "red_flags": [
-        "標題命中：核數師"
+        "標題命中：關連交易"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112600292_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1127/2026112700567_c.pdf"
     },
     {
-      "code": "01109",
-      "name": "華潤置地 / CR LAND N2902 / CR LAND N2910 / CR LAND N2811 / CR LAND N3011-R",
-      "date": "25/11/2026 22:56",
-      "title": "執行董事、執行委員會成員、可持續發展委員會成員及總裁之辭任",
-      "risk_level": "高風險",
+      "code": "01138",
+      "name": "中遠海能",
+      "date": "27/11/2026 16:35",
+      "title": "(1) 有關租船的須予披露及關連交易及持續關連交易；\n(2) 有關建造六艘超大型油輪的須予披露及關連交易；\n(3) 光租租入14 艘VLCC新造船；及\n(4) 特別股東會通告",
+      "risk_level": "中風險",
       "red_flags": [
-        "標題命中：辭任"
+        "標題命中：關連交易"
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501752_c.pdf"
-    },
-    {
-      "code": "01879",
-      "name": "曦智科技－Ｐ",
-      "date": "25/11/2026 22:48",
-      "title": "(1) 建議調任董事；(2) 建議委任獨立非執行董事；(3) 非執行董事辭任；及 (4) 業務最新資料",
-      "risk_level": "高風險",
-      "red_flags": [
-        "標題命中：辭任"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501688_c.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1127/2026112700433_c.pdf"
     },
     {
       "code": "01258",
@@ -146,42 +146,6 @@
       ],
       "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
       "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112600606_c.pdf"
-    },
-    {
-      "code": "03277",
-      "name": "長光辰芯",
-      "date": "26/11/2026 06:02",
-      "title": "內幕消息\n2026年首十個月的最新經營情況",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：內幕消息"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1126/2026112600002_c.pdf"
-    },
-    {
-      "code": "00666",
-      "name": "瑞浦蘭鈞",
-      "date": "25/11/2026 22:58",
-      "title": "內幕消息 - 本公司H股全流通獲聯交所授出上市批准",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：內幕消息"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501754_c.pdf"
-    },
-    {
-      "code": "03933",
-      "name": "聯邦制藥",
-      "date": "25/11/2026 22:39",
-      "title": "有關《二零二七年總銷售協議》的持續關連交易",
-      "risk_level": "中風險",
-      "red_flags": [
-        "標題命中：關連交易"
-      ],
-      "summary": "（免 API Key 模式）已依紅旗關鍵字自動標記，請點擊下方按鈕直接查閱披露易原文 PDF。",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501672_c.pdf"
     }
   ]
 }
